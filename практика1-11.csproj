@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>практика1_11</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="пр1.cs" />
+  </ItemGroup>
+</Project>
